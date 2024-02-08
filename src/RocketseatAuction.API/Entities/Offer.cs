@@ -1,6 +1,6 @@
 ﻿namespace RocketseatAuction.API.Entities;
 
-public class Offers
+public class Offer
 {
     public int Id { get; set; }
     public DateTime CreatedOn { get; set; }
